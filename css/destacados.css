@@ -32,10 +32,12 @@
 }
 
 .destacados__panel-texto{
-    font-weight: 700;
+    font-weight: 500;
     font-size: 1.2rem;
     line-height: normal;
-    color: #FFFFFF;
+    color: #eeeded;
+    max-width: 600px;
+    text-align: justify;
 }
 
 .destacados__boton{
