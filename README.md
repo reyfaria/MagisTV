@@ -1,3 +1,3 @@
-# Proyecto Apeperia
+# Proyecto MAGISTV
 
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Archivos de página web de para la venta de membresías de MagisTV "Layouts Responsivos: Trabajando con layouts mobile".
